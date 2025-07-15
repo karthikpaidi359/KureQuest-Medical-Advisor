@@ -19,3 +19,4 @@ KureQuest is an intelligent medical assistant that uses Natural Language Process
 ```bash
 pip install -r requirements.txt
 python main.py
+<img width="1844" height="897" alt="image" src="https://github.com/user-attachments/assets/305addfc-b7be-4894-9f5b-ed727535f981" />
